@@ -1,6 +1,5 @@
 package com.douwen.top.array.sort;
 
-import javax.xml.stream.XMLInputFactory;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
