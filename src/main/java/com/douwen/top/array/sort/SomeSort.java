@@ -36,6 +36,7 @@ public class SomeSort {
             }
             arr[j + 1] = temp;
         }
+
     }
 
     //快速排序
